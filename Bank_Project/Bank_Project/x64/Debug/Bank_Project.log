@@ -1,0 +1,4 @@
+﻿  Bank_Project.cpp
+G:\Abu-Hadhoud\Level07\Bank_Project\Bank_Project\Bank_Project\Bank_Project.cpp(60,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+G:\Abu-Hadhoud\Level07\Bank_Project\Bank_Project\Bank_Project\Bank_Project.cpp(535,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+  Bank_Project.vcxproj -> G:\Abu-Hadhoud\Level07\Bank_Project\Bank_Project\x64\Debug\Bank_Project.exe
